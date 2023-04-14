@@ -1,0 +1,15 @@
+C:\Users\user\OneDrive\Masaüstü\Pratikler\Değişkenler\bin\Debug\net7.0\Değişkenler.exe
+C:\Users\user\OneDrive\Masaüstü\Pratikler\Değişkenler\bin\Debug\net7.0\Değişkenler.deps.json
+C:\Users\user\OneDrive\Masaüstü\Pratikler\Değişkenler\bin\Debug\net7.0\Değişkenler.runtimeconfig.json
+C:\Users\user\OneDrive\Masaüstü\Pratikler\Değişkenler\bin\Debug\net7.0\Değişkenler.dll
+C:\Users\user\OneDrive\Masaüstü\Pratikler\Değişkenler\bin\Debug\net7.0\Değişkenler.pdb
+C:\Users\user\OneDrive\Masaüstü\Pratikler\Değişkenler\obj\Debug\net7.0\Değişkenler.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Masaüstü\Pratikler\Değişkenler\obj\Debug\net7.0\Değişkenler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Masaüstü\Pratikler\Değişkenler\obj\Debug\net7.0\Değişkenler.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Masaüstü\Pratikler\Değişkenler\obj\Debug\net7.0\Değişkenler.AssemblyInfo.cs
+C:\Users\user\OneDrive\Masaüstü\Pratikler\Değişkenler\obj\Debug\net7.0\Değişkenler.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Masaüstü\Pratikler\Değişkenler\obj\Debug\net7.0\Değişkenler.dll
+C:\Users\user\OneDrive\Masaüstü\Pratikler\Değişkenler\obj\Debug\net7.0\refint\Değişkenler.dll
+C:\Users\user\OneDrive\Masaüstü\Pratikler\Değişkenler\obj\Debug\net7.0\Değişkenler.pdb
+C:\Users\user\OneDrive\Masaüstü\Pratikler\Değişkenler\obj\Debug\net7.0\Değişkenler.genruntimeconfig.cache
+C:\Users\user\OneDrive\Masaüstü\Pratikler\Değişkenler\obj\Debug\net7.0\ref\Değişkenler.dll
